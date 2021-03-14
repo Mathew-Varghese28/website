@@ -53,7 +53,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col col-12 col-sm-2 col-lg-2 col-md-2 col-xl-2 col-xxl-2">
-                            <img height="10px" src="C:\xampp\htdocs\college\images\2535_logo.jpg" class="img-thumbnail" alt="...">
+                            <img height="10px" src="images\2535_logo.jpg" class="img-thumbnail" alt="...">
                         </div>
                         <div class="col col-12 col-sm-10 col-lg-10 col-md-10 col-xl-10 col-xxl-10">
                             <strong st>Vision:</strong>To become a centre par excellence of learning, unique in experience, value based in its approach, and pioneering in its efforts for enriching and fulfilling LIFE.
